@@ -6,7 +6,15 @@
     "author": "jekyll",
     "authorUrl": "https://jekyllrb.com/",
     "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "recommendedAttribution": ""
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "title": "Codeblocks logo.png",
+    "url": "https://commons.wikimedia.org/wiki/File:Codeblocks_logo.png",
+    "urlDate": "2021-08-20",
+    "author": "The Code::Blocks team",
+    "authorUrl": "https://jekyllrb.com/",
+    "license": "GNU General Public License",
+    "licenseUrl": "https://en.wikipedia.org/wiki/GNU_General_Public_License"
   }
 ]
